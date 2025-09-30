@@ -72,9 +72,13 @@ This project is open source and available under the **MIT License**.
 
 <br>
 
-💡 Created with ❤️ by
-**Tran Quoc Huy - 23110026 - Leader**
-**Le Nguyen Gia Phuc - 23110056**
-**Do Huynh Dai Duong - 23110012**
-**Nguyen Hong Dao - 23110013**
-**Tran Quoc Huy - 23110026**
+---
+
+## 👨‍💻 Project Team
+
+💡 Created with ❤️ by:
+* **Tran Quoc Huy** (Leader) - 23110026
+* **Le Nguyen Gia Phuc** - 23110056
+* **Do Huynh Dai Duong** - 23110012
+* **Nguyen Hong Dao** - 23110013
+* **Nguyen Khoi Nguyen** - 23110044
