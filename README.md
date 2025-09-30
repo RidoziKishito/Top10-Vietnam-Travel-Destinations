@@ -1,75 +1,80 @@
 # 🇻🇳 Top 10 Must-Visit Destinations in Vietnam
 
-**Top 10 Must-Visit Destinations in Vietnam** là một dự án website frontend đơn giản được phát triển để giới thiệu 10 địa điểm du lịch nổi tiếng và đẹp nhất trải dài khắp Việt Nam.
+**Top 10 Must-Visit Destinations in Vietnam** is a simple frontend website project developed to showcase 10 of the most beautiful and famous travel spots across Vietnam.
 
-Dự án này được tôi thực hiện trong **năm học đầu tiên tại đại học** nhằm mục đích luyện tập và củng cố các kỹ năng phát triển web cơ bản với **HTML, CSS, và JavaScript**.
+This project was built during my **first year at university** to practice and solidify fundamental web development skills, including **HTML, CSS, and JavaScript**.
 
-🔗 **Xem Live Demo:** [View Website Here](https://ridozikishito.github.io/Top10-Vietnam-Travel-Destinations/)
-
----
-
-## ✨ Các Tính Năng Chính
-
-* 📍 Giới thiệu chi tiết về **10 điểm đến không thể bỏ qua** tại Việt Nam.
-* 🖼️ Bao gồm **hình ảnh đẹp và mô tả ngắn gọn** cho từng địa danh.
-* 🎥 Nhúng các **liên kết YouTube** để người dùng có thể khám phá thêm về mỗi điểm đến.
-* 📱 Giao diện đơn giản, nhẹ, và **tương thích tốt trên nhiều thiết bị (responsive)**.
-* 🧑‍💻 Cấu trúc code thân thiện với người mới bắt đầu — dễ đọc và dễ mở rộng.
+🔗 **Live Demo:** [View Website Here](https://ridozikishito.github.io/Top10-Vietnam-Travel-Destinations/)
 
 ---
 
-## 🛠️ Công Nghệ Sử Dụng (Tech Stack)
+## ✨ Features
 
-| Công Nghệ | Mục Đích |
+* 📍 Introduction to **10 must-visit destinations** across Vietnam.
+* 🖼️ Beautiful **images and brief descriptions** for each location.
+* 🎥 Embedded **YouTube links** to explore more about each destination.
+* 📱 Simple, lightweight, and **fully responsive** frontend design.
+* 🧑‍💻 Beginner-friendly structure — easy to read and extend.
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
 | :--- | :--- |
-| **HTML5** | Xây dựng cấu trúc và nội dung chính của website |
-| **CSS3** | Định kiểu, bố cục (layout), và thiết kế responsive |
-| **JavaScript** | Thêm các tương tác cơ bản và yếu tố động |
-| **Images & Links** | Nguồn tài nguyên ngoài để nâng cao trải nghiệm người dùng |
+| **HTML** | Website structure and content organization |
+| **CSS** | Styling, layout, and responsive design |
+| **JavaScript** | Basic interactivity and dynamic elements |
+| **Images & Links** | External media for a better user experience |
 
 ---
 
-## 🚀 Hướng Dẫn Khởi Động
+## 🚀 Getting Started
 
-Để chạy dự án này trên máy tính cục bộ của bạn, hãy làm theo các bước đơn giản sau:
+To run the project locally, follow these simple steps:
 
-1.  **Clone** (tải) kho lưu trữ về máy:
+1.  **Clone** the repository:
     ```bash
     git clone [https://github.com/RidoziKishito/Top10-Vietnam-Travel-Destinations.git](https://github.com/RidoziKishito/Top10-Vietnam-Travel-Destinations.git)
     ```
 
-2.  **Mở tệp `index.html`** trực tiếp trong trình duyệt của bạn:
+2.  **Open the `index.html` file** directly in your browser:
     ```bash
     cd Top10-Vietnam-Travel-Destinations
-    start index.html   # Dùng lệnh này trên Windows, hoặc chỉ cần nhấp đúp vào tệp
+    start index.html   # (e.g., or simply double-click the file)
     ```
-    Vậy là xong — không cần cài đặt thêm bất kỳ thư viện hay công cụ nào khác!
+    That's it — no additional setup or dependencies required!
 
 ---
 
-## 📷 Xem Trước (Preview)
+## 📷 Preview
 
-*(Tùy chọn: Bạn có thể thêm một hoặc hai ảnh chụp màn hình chất lượng cao của website tại đây để làm nổi bật README)*
-
----
-
-## 📌 Ghi Chú Dự Án
-
-* 🧪 Đây là một dự án frontend cơ bản được tạo ra với mục đích học tập — không có backend, cơ sở dữ liệu (database), hay các lớp bảo mật phức tạp.
-* 🎓 Dự án được xây dựng như một phần của bài tập đại học năm nhất, tập trung vào việc thực hành các công nghệ web nền tảng.
-* 🌱 Dù đơn giản, dự án này thể hiện niềm đam mê của tôi đối với phát triển web và thiết kế giao diện người dùng (UI design).
+<img width="1920" height="875" alt="image" src="https://github.com/user-attachments/assets/2d05b20a-4d80-46cb-921a-94595259b133" />
 
 ---
 
-## 📄 Bản Quyền (License)
+## 📌 Project Notes
 
-Dự án này là mã nguồn mở và được phát hành dưới **Giấy phép MIT**.
+* 🧪 This is a basic frontend-only project created for learning purposes — no backend, database, or security layers are implemented.
+* 🎓 Built as part of a first-year university assignment focused on practicing fundamental web technologies.
+* 🌱 Despite its simplicity, this project reflects my passion for web development and UI design.
 
-## 🙌 Lời Cảm Ơn (Acknowledgements)
+---
 
-* Xin chân thành cảm ơn các nguồn tài nguyên và hướng dẫn trực tuyến đã giúp tôi học hỏi những kiến thức cơ bản về phát triển web.
-* Cảm ơn đặc biệt đến các giảng viên và bạn học đã cung cấp sự hướng dẫn và phản hồi hữu ích trong suốt quá trình thực hiện dự án.
+## 📄 License
+
+This project is open source and available under the **MIT License**.
+
+## 🙌 Acknowledgements
+
+* Thanks to various online resources and tutorials that helped me learn the basics of web development.
+* Special thanks to my professors and classmates for their guidance and feedback during the project.
 
 <br>
 
-💡 Được tạo ra với ❤️ bởi **Trần Quốc Huy**
+💡 Created with ❤️ by
+**Tran Quoc Huy - 23110026 - Leader**
+**Le Nguyen Gia Phuc - 23110056**
+**Do Huynh Dai Duong - 23110012**
+**Nguyen Hong Dao - 23110013**
+**Tran Quoc Huy - 23110026**
