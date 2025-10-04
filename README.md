@@ -29,13 +29,14 @@ This project was built during my **first year at university** to practice and so
 
 ---
 
-## 🚀 Getting Started
+## ⚙️ Installation & Setup
 
-To run the project locally, follow these simple steps:
+Since this is a **frontend-only project**, running it locally is extremely simple.
+Follow these steps:
 
 1.  **Clone** the repository:
     ```bash
-    git clone [https://github.com/RidoziKishito/Top10-Vietnam-Travel-Destinations.git](https://github.com/RidoziKishito/Top10-Vietnam-Travel-Destinations.git)
+    git clone https://github.com/RidoziKishito/Top10-Vietnam-Travel-Destinations.git
     ```
 
 2.  **Open the `index.html` file** directly in your browser:
@@ -61,14 +62,21 @@ To run the project locally, follow these simple steps:
 
 ---
 
-## 📄 License
-
-This project is open source and available under the **MIT License**.
-
 ## 🙌 Acknowledgements
 
 * Thanks to various online resources and tutorials that helped me learn the basics of web development.
 * Special thanks to my professors and classmates for their guidance and feedback during the project.
+
+## 📄 License
+
+This project is open source and available under the **MIT License**.
+
+## 🤝 Contact & Support
+
+If you encounter any issues or have questions about this project, feel free to reach out:
+* 📧 Email: huytranquoc24@gmail.com
+* 🌐 Facebook: https://www.facebook.com/huy.tranquoc.129357/
+* 💼 LinkedIn: https://www.linkedin.com/in/tran-quoc-huy-0612-ai/
 
 <br>
 
